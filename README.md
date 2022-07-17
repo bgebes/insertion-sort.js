@@ -1,6 +1,6 @@
 # insertion-sort.js
 
-🌴 That's a practice that improve my Algorithms &amp; HTML &amp; CSS &amp; Bootstrap &amp; Github Page skills.
+🌴 That's a practice that improve my Algorithms & HTML & CSS & Bootstrap & Vercel skills.
 
 # Sources
 
